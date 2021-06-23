@@ -1,7 +1,6 @@
 package tests;
 
 import static org.hamcrest.Matchers.equalTo;
-
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import static io.restassured.RestAssured.*;
